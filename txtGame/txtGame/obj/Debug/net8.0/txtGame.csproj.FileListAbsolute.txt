@@ -1,0 +1,14 @@
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\txtGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\txtGame.AssemblyInfoInputs.cache
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\txtGame.AssemblyInfo.cs
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\txtGame.csproj.CoreCompileInputs.cache
+C:\Users\jharrison\source\repos\txtGame\txtGame\bin\Debug\net8.0\txtGame.exe
+C:\Users\jharrison\source\repos\txtGame\txtGame\bin\Debug\net8.0\txtGame.deps.json
+C:\Users\jharrison\source\repos\txtGame\txtGame\bin\Debug\net8.0\txtGame.runtimeconfig.json
+C:\Users\jharrison\source\repos\txtGame\txtGame\bin\Debug\net8.0\txtGame.dll
+C:\Users\jharrison\source\repos\txtGame\txtGame\bin\Debug\net8.0\txtGame.pdb
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\txtGame.dll
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\refint\txtGame.dll
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\txtGame.pdb
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\txtGame.genruntimeconfig.cache
+C:\Users\jharrison\source\repos\txtGame\txtGame\obj\Debug\net8.0\ref\txtGame.dll
